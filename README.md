@@ -18,12 +18,13 @@ I have **5 months of internship experience** as a **Full Stack Developer**, wher
 My toolkit includes, but is not limited to:
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,typescript,nodejs,react,nextjs,express,mongodb,postgresql,aws,git,github,postman,vscode,figma&theme=light)](https://skillicons.dev)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FE7A16?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/_pranav7_/)
 
 
 
 ---
 
-### 🌱 Growth & Learning  
+### 🌱 Growth & Learning   
 I believe in staying curious in the ever-evolving tech world. I actively explore new technologies and engage with online resources to keep up with the latest industry trends and best practices. I’m always eager to expand my knowledge and apply it to real-world projects.  
 
 I’m also open to new opportunities and collaborations, so if you're looking for a **Full Stack Developer** or someone to contribute to your **project**, feel free to reach out!
