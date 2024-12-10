@@ -3,7 +3,7 @@
 ---
 
 ### About Me  
-I am a **Full Stack Developer** driven by a passion for creating scalable solutions and efficient systems. I thrive on building seamless user experiences and developing reliable backend architectures that deliver impactful results.  
+Myself Pranav Bedi, I am a **Software Developer** driven by a passion for creating scalable solutions and efficient systems. I thrive on building seamless user experiences and developing reliable backend architectures that deliver impactful results.  
 
 With a strong interest in both **financial markets** and **UX design**, I enjoy combining technical skills with thoughtful design to solve practical challenges. My strengths include **problem-solving**, **adaptability**, and **collaborating effectively** to bring ideas to life.
 
